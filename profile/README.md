@@ -13,18 +13,18 @@
 
 ## 4年前期
 
-| 時限 | 受講 | 授業名 | リポジトリ |
-| - | - | - | - |
-| 月12 | ✅ | リーンスタートアップ実践演習 ||
-| 月34 | | 機械学習プログラミング実習III ||
-| 火12 | ✅ | モダンフロントエンド開発 | [4-first-modern-react](https://github.com/lvncers-siw-practices/4-first-modern-react) |
-| 火34 | | ゲームプログラミング ||
-| 水12 | | アイデアソン実習I ||
-| 水34 | ✅ | 卒業制作 | [4-first-graduation-work-idea](https://github.com/lvncers-siw-practices/4-first-graduation-work-idea) |
-| 木34 | ✅ | プロジェクトマネジメント 実践演習II ||
-| 金1 | ✅ | キャリアデザインVII ||
-| 金2 | ✅ | プロダクトマネジメント概論 ||
-| 金34 | ✅ | プロダクトマネジメント 実践演習II ||
+| 時限 | 受講 | 授業名 | 担当 | リポジトリ |
+| - | - | - | - | - |
+| 月12 | ✅ | リーンスタートアップ実践演習 | M.D ||
+| 月34 | | 機械学習プログラミング実習III | A.S ||
+| 火12 | ✅ | モダンフロントエンド開発 | [4-first-modern-react](https://github.com/lvncers-siw-practices/4-first-modern-react) | N.K ||
+| 火34 | | ゲームプログラミング | Y.K ||
+| 水12 | | アイデアソン実習I | I.K ||
+| 水34 | ✅ | 卒業制作 | [4-first-graduation-work-idea](https://github.com/lvncers-siw-practices/4-first-graduation-work-idea) | otuA ||
+| 木34 | ✅ | プロジェクトマネジメント 実践演習II | N.T ||
+| 金1 | ✅ | キャリアデザインVII | M.D ||
+| 金2 | ✅ | プロダクトマネジメント概論 | M.D ||
+| 金34 | ✅ | プロダクトマネジメント 実践演習II | M.D ||
 
 ## 3年後期
 
