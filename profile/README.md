@@ -13,16 +13,16 @@
 
 | 時限 | 受講 | 授業名 | リポジトリ |
 | - | - | - | - |
-| 月12 | ✅ | 前期_リーンスタートアップ実践演習 ||
-| 月34 | | 前期_機械学習プログラミング実習III ||
-| 火12 | ✅ | 前期_モダンフロントエンド開発 | [4-first-modern-react](https://github.com/lvncers-siw-practices/4-first-modern-react) |
-| 火34 | | 前期_ゲームプログラミング ||
-| 水12 | | 前期_アイデアソン実習I ||
-| 水34 | ✅ | 前期_卒業制作 | [4-first-graduation-work-idea](https://github.com/lvncers-siw-practices/4-first-graduation-work-idea) |
-| 木34 | ✅ | 前期_プロジェクトマネジメント 実践演習II ||
-| 金1 | ✅ | 前期_キャリアデザインVII ||
-| 金2 | ✅ | 前期_プロダクトマネジメント概論 ||
-| 金34 | ✅ | 前期_プロダクトマネジメント 実践演習II ||
+| 月12 | ✅ | リーンスタートアップ実践演習 ||
+| 月34 | | 機械学習プログラミング実習III ||
+| 火12 | ✅ | モダンフロントエンド開発 | [4-first-modern-react](https://github.com/lvncers-siw-practices/4-first-modern-react) |
+| 火34 | | ゲームプログラミング ||
+| 水12 | | アイデアソン実習I ||
+| 水34 | ✅ | 卒業制作 | [4-first-graduation-work-idea](https://github.com/lvncers-siw-practices/4-first-graduation-work-idea) |
+| 木34 | ✅ | プロジェクトマネジメント 実践演習II ||
+| 金1 | ✅ | キャリアデザインVII ||
+| 金2 | ✅ | プロダクトマネジメント概論 ||
+| 金34 | ✅ | プロダクトマネジメント 実践演習II ||
 
 ## 3年後期
 
