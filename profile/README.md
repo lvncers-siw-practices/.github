@@ -83,17 +83,17 @@
 | 時限 | 授業名 | 担当 | リポジトリ | 備考 |
 | - | - | - | - | - |
 | 月12 | 基本情報技術者試験対策 II (科目A) | A.S |||
-| 月3 | UML | A.S ||||
-| 月4 | キャリアデザイン | I.Y ||||
-| 火1 | 業務分析・要件定義 | E.K |||
-| 火2 | 業務知識 | E.K |||
+| 月3 | UML | A.S || 資料あり |
+| 月4 | キャリアデザイン | I.Y || 教科書あり |
+| 火1 | 業務分析・要件定義 | E.K || 資料あり |
+| 火2 | 業務知識 | E.K || 資料あり |
 | 火34 | システム企画・設計 | S.N | [php-sample-projects](https://github.com/lvncers-siw-practices/php-sample-projects) ||
 | 水12 | Webアプリケーション開発 | A.S | [world-weather-app](https://github.com/lvncers-siw-practices/world-weather-app) | 教科書あり |
 | 木12 | 基本情報技術者試験対策 I (科目A) | I.M |||
 | 木34 | IoT開発 | A.S |||
 | 金2 | クラウド開発 | S.H | 公開可能 ||
 | 金3 | テスト技法 | S.H | 公開可能 | 教科書あり |
-| 金4 | WebAPI | S.H | (cli-and-api-app)[https://github.com/lvncers-siw-practices/cli-and-api-app] | 資料あり、クラウド開発とまとめる |
+| 金4 | WebAPI | S.H | [cli-and-api-app](https://github.com/lvncers-siw-practices/cli-and-api-app) | 資料あり、クラウド開発とまとめる |
 
 ## 1年後期
 
@@ -109,7 +109,7 @@
 | 木2 | システム開発概論 | S.H || 資料あり |
 | 木3 | IoT技術 | S.H || 教科書 |
 | 金12 | Linux II | S.H || AWSに変更 |
-| 金34 | データベース設計 II | S.H || (db-cli-apps)[https://github.com/lvncers-siw-practices/db-cli-apps] ||
+| 金34 | データベース設計 II | S.H | [db-cli-apps](https://github.com/lvncers-siw-practices/db-cli-apps) ||
 
 ## 1年前期
 
