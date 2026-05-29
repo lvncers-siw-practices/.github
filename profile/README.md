@@ -68,7 +68,7 @@
 | 時限 | 授業名 | 担当 | リポジトリ | 備考 |
 | - | - | - | - | - |
 | 月34 | モバイルアプリ開発 | A.S | [ios-example-apps](https://github.com/lvncers-siw-practices/ios-example-apps) ||
-| 火12 | UXデザイン | S.M | 公開可能 ||
+| 火12 | UXデザイン | S.M | [siw-cafe-mobile-app-figma](https://github.com/lvncers-siw-practices/siw-cafe-mobile-app-figma) ||
 | 火34 | システム企画・設計 II | G.N |||
 | 水12 | ロボティクス開発 | otuA | 公開可能 ||
 | 水3 | キャリアデザイン II | I.Y | 公開可能 ||
