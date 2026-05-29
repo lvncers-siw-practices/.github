@@ -75,7 +75,7 @@
 | 木12 | Webアプリケーション開発 II | A.S || 前期の続き？ |
 | 金1 | アジャイル開発 | S.H | 公開可能 ||
 | 金2 | コンセプチュアルスキル | S.H || 教科書あり |
-| 金3 | セキュア開発 | S.H || `app-goat`使用 |
+| 金3 | セキュア開発 | S.H || [AppGoat](https://www.ipa.go.jp/security/vuln/appgoat/about.html)使用 |
 | 金4 | 基本情報技術者試験対策II[科目B] | S.H |||
 
 ## 2年前期
