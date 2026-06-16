@@ -13,18 +13,18 @@
 
 ## 4年前期
 
-| 時限 | 受講 | 授業名 | 担当 | リポジトリ |
-| - | - | - | - | - |
-| 月12 | ✅ | リーンスタートアップ実践演習 | M.D ||
-| 月34 | | 機械学習プログラミング実習III | A.S ||
-| 火12 | ✅ | モダンフロントエンド開発 | N.K | [modern-frontend](https://github.com/lvncers-siw-practices/modern-frontend) |
-| 火34 | | ゲームプログラミング | Y.K ||
-| 水12 | | アイデアソン実習I | I.K ||
-| 水34 | ✅ | 卒業制作 | otuA | [graduation-work-idea](https://github.com/lvncers-siw-practices/graduation-work-idea) / [2d-observation](https://github.com/lvncers-siw-practices/2d-observation)|
-| 木34 | ✅ | プロジェクトマネジメント 実践演習II | N.T ||
-| 金1 | ✅ | キャリアデザインVII | M.D ||
-| 金2 | ✅ | プロダクトマネジメント概論 | M.D ||
-| 金34 | ✅ | プロダクトマネジメント 実践演習II | M.D ||
+| 時限 | 受講 | 授業名 | 担当 | リポジトリ | 備考 |
+| - | - | - | - | - | - |
+| 月12 | ✅ | リーンスタートアップ実践演習 | M.D || 資料あり |
+| 月34 | | 機械学習プログラミング実習III | A.S || 資料あり |
+| 火12 | ✅ | モダンフロントエンド開発 | N.K | [modern-frontend](https://github.com/lvncers-siw-practices/modern-frontend) | 資料あり |
+| 火34 | | ゲームプログラミング | Y.K |||
+| 水12 | | アイデアソン実習I | I.K |||
+| 水34 | ✅ | 卒業制作 | otuA | [graduation-work-idea](https://github.com/lvncers-siw-practices/graduation-work-idea) / [2d-observation](https://github.com/lvncers-siw-practices/2d-observation)| 資料あり |
+| 木34 | ✅ | プロジェクトマネジメント 実践演習II | N.T |||
+| 金1 | ✅ | キャリアデザインVII | M.D || 資料あり |
+| 金2 | ✅ | プロダクトマネジメント概論 | M.D || 資料あり |
+| 金34 | ✅ | プロダクトマネジメント 実践演習II | M.D || 資料あり |
 
 ## 3年後期
 
