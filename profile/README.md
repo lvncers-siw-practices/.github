@@ -17,7 +17,7 @@
 | - | - | - | - | - |
 | 月12 | ✅ | リーンスタートアップ実践演習 | M.D ||
 | 月34 | | 機械学習プログラミング実習III | A.S ||
-| 火12 | ✅ | モダンフロントエンド開発 | N.K | [4-first-modern-react](https://github.com/lvncers-siw-practices/4-first-modern-react) |
+| 火12 | ✅ | モダンフロントエンド開発 | N.K | [modern-frontend](https://github.com/lvncers-siw-practices/modern-frontend) |
 | 火34 | | ゲームプログラミング | Y.K ||
 | 水12 | | アイデアソン実習I | I.K ||
 | 水34 | ✅ | 卒業制作 | otuA | [4-first-graduation-work-idea](https://github.com/lvncers-siw-practices/4-first-graduation-work-idea) / [2d-observation](https://github.com/lvncers-siw-practices/2d-observation)|
