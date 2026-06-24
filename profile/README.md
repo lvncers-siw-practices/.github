@@ -20,7 +20,7 @@
 | 火12 | ✅ | モダンフロントエンド開発 | N.K | [modern-frontend](https://github.com/lvncers-siw-practices/modern-frontend) | 資料あり |
 | 火34 | | ゲームプログラミング | Y.K |||
 | 水12 | | アイデアソン実習I | I.K |||
-| 水34 | ✅ | 卒業制作 | otuA | [graduation-work-idea](https://github.com/lvncers-siw-practices/graduation-work-idea) / [2d-observation](https://github.com/lvncers-siw-practices/2d-observation)| 資料あり |
+| 水34 | ✅ | 卒業制作 | otuA | [2d-observation](https://github.com/lvncers-siw-practices/2d-observation)| 資料あり |
 | 木34 | ✅ | プロジェクトマネジメント 実践演習II | N.T |||
 | 金1 | ✅ | キャリアデザインVII | M.D || 資料あり |
 | 金2 | ✅ | プロダクトマネジメント概論 | M.D || 資料あり |
