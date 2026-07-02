@@ -126,4 +126,4 @@
 | 木4 | 情報セキュリティ | S.H || 資料あり |
 | 金1 | AIマシーンラーニング | S.H || 教科書 |
 | 金2 | コンピュータシステム | S.H || 資料あり |
-| 金34 | データベース I | S.H | [1-first-database](https://github.com/lvncers-siw-practices/sql-practice) | 前期期末試験解答はローカル保存 |
+| 金34 | データベース I | S.H | [sql-practice](https://github.com/lvncers-siw-practices/sql-practice) | 前期期末試験解答はローカル保存 |
