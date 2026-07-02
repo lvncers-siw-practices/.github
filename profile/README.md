@@ -92,10 +92,8 @@
 | 木12 | 基本情報技術者試験対策 I (科目A) | I.M |||
 | 木34 | IoT開発 | A.S |||
 | 金2 | クラウド開発 | S.H | 公開可能 ||
-| 金3 | テスト技法 | S.H | 公開可能 | 教科書あり[^1] |
+| 金3 | テスト技法 | S.H | 公開可能 | 教科書あり |
 | 金4 | WebAPI | S.H | [cli-and-api-app](https://github.com/lvncers-siw-practices/cli-and-api-app) | 資料あり、クラウド開発とまとめる |
-
-[^1]: https://www.amazon.co.jp/%E3%80%90%E3%81%93%E3%81%AE1%E5%86%8A%E3%81%A7%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8B%E3%80%91-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E5%A2%97%E8%A3%9C%E6%94%B9%E8%A8%82-%E7%AC%AC2%E7%89%88-%E5%B8%83%E6%96%BD/dp/481560875X/ref=asc_df_481560875X?mcid=f3dbd4b5e87a3cee89ef412a49718c97&th=1&psc=1&tag=jpgo-22&linkCode=df0&hvadid=707442440784&hvpos=&hvnetw=g&hvrand=3325938969187912257&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9053318&hvtargid=pla-1264342059328&psc=1&hvocijid=3325938969187912257-481560875X-&hvexpln=0
 
 ## 1年後期
 
@@ -128,4 +126,4 @@
 | 木4 | 情報セキュリティ | S.H || 資料あり |
 | 金1 | AIマシーンラーニング | S.H || 教科書 |
 | 金2 | コンピュータシステム | S.H || 資料あり |
-| 金34 | データベース I | S.H | [1-first-database](https://github.com/lvncers-siw-practices/1-first-database) | 前期期末試験解答はローカル保存 |
+| 金34 | データベース I | S.H | [1-first-database](https://github.com/lvncers-siw-practices/sql-practice) | 前期期末試験解答はローカル保存 |
