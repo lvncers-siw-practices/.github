@@ -5,7 +5,7 @@
 | 時限 | 受講 | 授業名 | 担当 | リポジトリ | 備考 |
 | - | - | - | - | - | - |
 | 月1234 | ✅ | デジタルクリエイティブ実習 | A.S | [blender](https://github.com/lvncers-siw-practices/blender) | |
-| 火1234 | ✅ | ゲーム開発 | Y.K | | |
+| 火1234 | ✅ | ゲーム開発 | Y.K | [ue-games](https://github.com/lvncers-siw-practices/ue-games) | |
 | 水1234 木12 | ✅ | 卒業制作 | otuA | | |
 | 木34 | ✅ | アジャイル開発とスクラム |  | | |
 | 金2 | ✅ | キャリアデザインVIII | I.Y | | |
