@@ -5,11 +5,11 @@
 | 時限 | 受講 | 授業名 | 担当 | リポジトリ | 備考 |
 | - | - | - | - | - | - |
 | 月1234 | ✅ | デジタルクリエイティブ実習 | A.S | [blender](https://github.com/lvncers-siw-practices/blender) | |
-| 火1234 | ✅ | ゲーム開発 | Y.K | [ue-games](https://github.com/lvncers-siw-practices/ue-games) | |
+| 火1234 | ✅ | ゲーム開発 | Y.K | [ue-games](https://github.com/lvncers-siw-practices/ue-games) | 資料あり |
 | 水1234 木12 | ✅ | 卒業制作 | otuA | | |
-| 木34 | ✅ | アジャイル開発とスクラム |  | | |
+| 木34 | ✅ | アジャイル開発とスクラム | H.S | [Agile-development-and-Scrum](https://github.com/Agile-development-and-Scrum) | |
 | 金2 | ✅ | キャリアデザインVIII | I.Y | | |
-| 金34 | ✅ | データ駆動チームマネジメント実践演習 | M.D | | |
+| 金34 | ✅ | データ駆動チームマネジメント実践演習 | M.D | | 資料あり |
 
 ## 4年前期
 
